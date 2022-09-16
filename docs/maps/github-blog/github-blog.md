@@ -3,6 +3,7 @@ layout: default
 title: Github Blog
 parent: Maps
 has_children: true
+nav_arrow: true
 ---
 
 # Github Blog
