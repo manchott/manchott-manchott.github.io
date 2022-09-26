@@ -9,4 +9,4 @@
 그 과정에서 지나온 길을 지도로 그리고 있습니다.  
 다른 길치들에게도 도움이 되었으면 좋겠습니다.
 
-# bundle exec jekyll serve
+<!-- bundle exec jekyll serve --> 
