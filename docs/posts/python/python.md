@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Python
-parent: Maps 
+parent: Posts 
 has_children: true
 ---
 

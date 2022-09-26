@@ -2,7 +2,7 @@
 layout: default
 title: github.io 블로그 시작하기
 parent: Github Blog
-grand_parent: Maps
+grand_parent: Posts
 ---
 
 # github.io 블로그 시작하기

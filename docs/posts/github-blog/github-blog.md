@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Github Blog
-parent: Maps
+parent: Posts
 has_children: true
 nav_arrow: true
 ---

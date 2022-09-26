@@ -2,7 +2,7 @@
 layout: default
 title: defaultdict
 parent: Python
-grand_parent: Maps
+grand_parent: Posts
 ---
 
 # defaultdict
