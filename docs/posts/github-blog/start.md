@@ -1,6 +1,6 @@
 ---
 layout: default
-title: github.io 블로그 시작하기
+title: 1. github.io 블로그 시작하기
 parent: Github Blog
 grand_parent: Posts
 ---
@@ -55,32 +55,34 @@ grand_parent: Posts
 ![start_1](../../../assets/images/start_1.PNG)
 
 ## 나만의 깃허브 블로그 만들기
-1. 먼저 로컬에 위에서 만들었던 사이트의 토대를 만들 것이다. 원하는 폴더에서 새로운 사이트를 생성한다. 사이트 이름은 `<github username>.github.io`으로 할 것이다. 자신의 username이 manchott이라면 `manchott.github.io`로 만드는 것이다!
+본격적으로 블로그를 만들어보자!
+1. 먼저 로컬에 위에서 만들었던 사이트의 토대를 만들 것이다. 원하는 폴더에서 새로운 사이트를 생성한다.  
+   사이트 이름은 `<github username>.github.io`으로 할 것이다. 자신의 username이 manchott이라면 `manchott.github.io`로 만드는 것이다!
     ```
     $ jekyll new <github username>.github.io
     ```
 2. 새로 만들어진 폴더(`<github username>.github.io`)에서 `shift`+`오른쪽 마우스 클릭`을 하면 **여기서 명령창 열기**가 생기는데 클릭하면 해당 폴더에서 cmd 창이 열린다.
+3. 깃허브에서 새로운 repository를 만들고 연결한다. repo 이름은 `<github username>.github.io`로 한다. 방금 연 cmd를 통해 repository와 폴더를 연결한다  
 
-깃허브에서 새로운 repository를 만든다. repo 이름은 `<github username>.github.io`로 한다.
-    * 예를 들어 
-    * 깃허브에서 자신의 username으로 시작되는 repo는 뭔가 특별한 레포라고 한다.
-2. 
+    ```
+    // 레포 연결하기
+    git init
+    git remote add origin *복사한 repository URL*
+    git remote -v
 
-## 테마 찾기
-
-* 원하는 블로그 테마 찾기 
-    * [깔끔한 사이트](https://jekyllthemes.io/free)
-    * [설명을 포함해서 정리한 사이트](https://jekyllthemes.dev/)
-    * [무료 테마 사이트](https://jekyll-themes.com/free/)
-    * [위랑 비슷한 사이트](http://themes.jekyllrc.org/)  
-    [출처](https://wiznxt.tistory.com/677)
-
-
+    // 폴더의 내용 github로 올리기
+    git add .
+    git commit -m "Create blog"
+    git push -u origin master
+    ```
+    * 참고) 깃허브에서 자신의 username으로 시작되는 repo는 뭔가 특별한 레포라고 한다.
+ 
+4. github에 commit 한 뒤에 주소창에 `<github username>.github.io`를 입력해보면 내 블로그로 들어갈 수 있다.  
+단, 연동되는데 시간이 걸린다.**(약 2~5분)** 커밋한 내용이 연동될 때마다 이정도 시간을 기다려야 하기 때문에 다음 글에서는 연동 기다릴 필요 없이 바로바로 블로그의 상태를 확인할 수 있는 방법을 작성할 것이다. 
 
 
 ## 참고한 사이트
 * [jekyll 공식 사이트](https://jekyllrb.com/)
-* https://dataitgirls2.github.io/tutorial/Tutorial_180709_StaticBlogging_JekyllandRuby.html
-* https://velog.io/@minji-o-j/jekyll-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0
-* https://nasir17git.github.io/
-* 
+* 전반적인 블로그 시작 방법: <https://dataitgirls2.github.io/tutorial/Tutorial_180709_StaticBlogging_JekyllandRuby.html>
+* 오류 해결: <https://velog.io/@minji-o-j/jekyll-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0>
+* 지인 블로그: <https://nasir17git.github.io/>

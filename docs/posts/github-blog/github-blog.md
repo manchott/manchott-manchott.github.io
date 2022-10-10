@@ -4,6 +4,7 @@ title: Github Blog
 parent: Posts
 has_children: true
 nav_arrow: true
+nav_order: 1
 ---
 
 # Github Blog
