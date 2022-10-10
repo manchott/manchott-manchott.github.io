@@ -24,6 +24,8 @@ description: 좌충우돌 개발 블로그
 baseurl: "/blog"
 url: "https://manchott.github.io/"
 
+permalink: pretty
+
 # Build settings
 plugins:
   - jekyll-feed
