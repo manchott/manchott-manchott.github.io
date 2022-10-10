@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Github Blog
+title: Introduction
 parent: Posts
 has_children: true
 nav_arrow: true
