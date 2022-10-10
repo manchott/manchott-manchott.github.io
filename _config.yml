@@ -21,8 +21,8 @@
 title: JDI
 email: manchott@naver.com
 description: 좌충우돌 개발 블로그
-# baseurl: "/blog"
-# url: "https://manchott.github.io/"
+baseurl: "/blog"
+url: "https://manchott.github.io/"
 
 # Build settings
 plugins:
