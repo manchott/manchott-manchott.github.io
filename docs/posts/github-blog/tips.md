@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 자잘한 팁
-last_modified_date: 2022-10-11
+last_modified_date: 2022-10-10
 parent: Github Blog
 grand_parent: Posts
 ---

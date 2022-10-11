@@ -1,6 +1,7 @@
 ---
 layout: default
 title: SSAFY! 복수전공자라면 비전공반? 전공반?
+last_modified_date: 2022-10-11
 parent: SSAFY 
 grand_parent: Posts
 ---

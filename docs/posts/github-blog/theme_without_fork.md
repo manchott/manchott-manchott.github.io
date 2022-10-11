@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2. fork 할 필요 없이 블로그 테마 입히기
-last_modified_date: 2022-10-11
+last_modified_date: 2022-10-10
 parent: Github Blog
 grand_parent: Posts
 ---
