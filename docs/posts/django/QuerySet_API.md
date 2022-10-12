@@ -35,4 +35,7 @@ grand_parent: Posts
   ```
   user.last_name = '김'
   user.save()
-  ```*
+  ```
+* 101번 user 레코드 삭제: `user.delete()`
+
+* 전체 인원 수 조회: `User.objects.
