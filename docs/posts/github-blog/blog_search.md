@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 3. github blog, 특히 just-the-docs 테마를 검색 엔진에 등록하기
+last_modified_date: 2022-10-13
 parent: Github Blog
 grand_parent: Posts
 ---
