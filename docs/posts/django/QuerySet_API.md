@@ -5,10 +5,10 @@ parent: Django
 grand_parent: Posts
 ---
 
-# defaultdict
+# QuerySet API Advanced
 {: .no_toc }
 
-## QuerySet API Advanced
+## TABLE OF CONTENTS
 {: .no_toc .text-delta }
 
 1. TOC
