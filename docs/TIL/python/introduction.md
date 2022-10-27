@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Python
-parent: Posts 
+parent: TIL 
 has_children: true
 ---
 

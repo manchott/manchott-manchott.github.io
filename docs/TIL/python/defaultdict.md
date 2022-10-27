@@ -2,7 +2,7 @@
 layout: default
 title: defaultdict
 parent: Python
-grand_parent: Posts
+grand_parent: TIL
 ---
 
 # defaultdict

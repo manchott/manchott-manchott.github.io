@@ -2,7 +2,7 @@
 layout: default
 title: QuerySet API Advanced
 parent: Django
-grand_parent: Posts
+grand_parent: TIL
 ---
 
 # QuerySet API Advanced

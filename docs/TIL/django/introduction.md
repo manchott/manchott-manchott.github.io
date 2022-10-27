@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Django
-parent: Posts 
+parent: TIL 
 has_children: true
 ---
 
