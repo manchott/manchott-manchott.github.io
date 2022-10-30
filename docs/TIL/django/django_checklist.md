@@ -1,6 +1,3 @@
-
-
-
 ---
 layout: default
 title: Django 프로젝트 만들 때 체크리스트
