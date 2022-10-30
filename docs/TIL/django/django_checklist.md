@@ -42,8 +42,7 @@ app_name = 'appname'
 urlpatterns = []
 ```
 5. base dir에 `templates`  폴더 만들고 `base.html`  작성 후 `settings.py` 에 추가하기
-	* 다른 템플렛들의 기초가 될 템플렛을 만들어둔다. 
-	* body에 `{% block content %}` 추가 잊지말기
+	* 다른 템플렛들의 기초가 될 템플렛을 만들어둔다.
 
 ## Accounts
 1. `models.py`
@@ -130,7 +129,6 @@ admin.site.register(AppModel)
 3. templates
 	* accounts와 비슷
 	* `<p>{{ comments|length }}개의 댓글이 있습니다.</p>`
-	* `{% if request.user == comment.user %}`를 통해 뎃글을 작성한 유저만이 댓글 수정하게 만들 수 있다
 4. `views.py`
 	* context에 필요한 데이터를 dict 형태로 보낼 수 있다
 	* foreinkey를 사용하는 model을 form을 통해 작성/수정하는 경우 
