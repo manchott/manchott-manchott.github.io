@@ -56,3 +56,10 @@ grand_parent: TIL
 * Workspace 하단의 Text file encoding을 Other: UTF-8로 바꾼다
 * 왼쪽 목록에서 CSS Files, HTML Files, JSP Files, XML Files 에서 죄다 UTF-8로 바꾼다
 * 만약 톰캣 서버를 사용한다면 프로젝트 폴더 있는 곳에서 우클릭 -> New -> Other -> Server에서 톰캣 선택
+
+### 4. Tomcat 서버 설정하기
+* [톰캣 홈페이지](https://tomcat.apache.org/)에서 필요한 버전을 다운받는다
+* C드라이브에 `tomcat` 폴더를 만들고 위에서 다운 받은 것을 압축 해제한다
+* Package Explorer에서 우클릭 -> New -> Other -> Server 검색
+* Apache 폴더에서 원하는 서버 선택(보통은 최신 버전으로 선택한다) 후 Next
+* Tomcat installation directory -> Browse -> 위에서 압축 해제했던 폴더 선택 -> Finish
