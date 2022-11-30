@@ -31,6 +31,7 @@ grand_parent: TIL
 * `alt + ↑/↓`: 줄 이동
 * `ctrl + N`: 새 파일/프로젝트 생성
 * `ctrl + W`: 파일 닫기
+* `shift + alt + J`: 이클립스 document 주석 달기
 
 
 ## Eclipse 초기 세팅
