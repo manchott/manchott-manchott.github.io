@@ -15,7 +15,7 @@ last_modified_date: 2022-12-15
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 
