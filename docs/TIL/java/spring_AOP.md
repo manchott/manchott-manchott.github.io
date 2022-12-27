@@ -6,15 +6,13 @@ grand_parent: TIL
 ---
 
 # Spring AOP
-
 {: .no_toc }
 
 ## TABLE OF CONTENTS
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 ## AOP(Aspect Oriented Programming)

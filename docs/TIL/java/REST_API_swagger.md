@@ -7,15 +7,13 @@ last_modified_date: 2022-12-07
 ---
 
 # REST, API, Swagger
-
 {: .no_toc }
 
 ## TABLE OF CONTENTS
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 
