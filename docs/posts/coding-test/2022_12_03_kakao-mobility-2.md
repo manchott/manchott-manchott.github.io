@@ -3,10 +3,10 @@ layout: default
 title: 2022.12.03 카카오 모빌리티 2차 코딩 테스트
 parent: Coding Test
 grand_parent: Posts
-last_modified_date: 2022-12-04
+last_modified_date: 2023-01-17
 ---
 
-# 2022.11.26 카카오 모빌리티 2차 코딩 테스트
+# 2022.12.03 카카오 모빌리티 2차 코딩 테스트
 {: .no_toc }
 
 ## TABLE OF CONTENTS
