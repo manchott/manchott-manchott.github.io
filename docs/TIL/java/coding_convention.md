@@ -17,8 +17,8 @@ last_modified_date: 2022-12-27
 
 ---
 # JAVA Coding Convention
-[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)를 참고하고 작성한 글입니다.  
-또한 자바에 익숙하지 않아서 이미 윗 글을 번역한 [블로그](https://newwisdom.tistory.com/96)를 참고했습니다.  
+[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)를 번역한 글입니다.  
+[블로그](https://newwisdom.tistory.com/96)를 참고한 부분이 있습니다.  
 
 # 1 소개
 이 문서는 Java™ 프로그래밍 언어의 소스 코드에 대한 Google 코딩 표준의 완전한 정의 역할을 합니다. Java 소스 파일은 여기의 규칙을 준수하는 경우에만 Google 스타일에 있는 것으로 설명됩니다.
