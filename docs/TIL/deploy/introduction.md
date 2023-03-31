@@ -1,11 +1,11 @@
 ---
 layout: default
-title: deploy
+title: Deploy
 parent: TIL 
 has_children: true
 ---
 
-# deploy
+# Deploy
 
 혼자서 웹 서비스를 배보해보자
 {: .fs-6 .fw-300 }

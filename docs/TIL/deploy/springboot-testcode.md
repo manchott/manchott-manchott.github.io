@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SpringBoot 테스트코드 작성하기
-parent: AWS
+parent: Deploy
 grand_parent: TIL
 last_modified_date: 2022-12-27
 ---
