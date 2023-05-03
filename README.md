@@ -1,12 +1,20 @@
-# Cartographer's Note
+# Hydejack Starter Kit
 
-*A cartographer is a person who deals with the art, science and technology of making and using maps.*
+A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
----
+## Quick Start
+### Running locally
+1. Clone repository (git users), or [download] and unzip.
+2. Open terminal, `cd` into root directory (where `_config.yml` is located)
+3. Run `bundle install` [^1]
+4. Run `bundle exec jekyll serve`
+5. Open <http://localhost:4000/hydejack-starter-kit/>
 
-개발자의 길을 걷고 있는 길치입니다.  
-직접 몸으로 부딛히며 목적지에 도달합니다.
-그 과정에서 지나온 길을 지도로 그리고 있습니다.  
-다른 길치들에게도 도움이 되었으면 좋겠습니다.
+## What's next?
+* Open files and read the comments
+* Read the [docs](https://hydejack.com/docs/)
+* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
 
-<!-- bundle exec jekyll serve --> 
+[^1]: Requires Bundler. Install with `gem install bundler`.
+
+[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
