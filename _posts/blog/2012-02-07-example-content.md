@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Example Content
+title: blog
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 sitemap: false
+categories:
+  - blog
 hide_last_modified: true
 ---
 
