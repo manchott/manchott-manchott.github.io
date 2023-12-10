@@ -3,15 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Example
-
-# The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: whatttttt
+title: Table Top Tracker
+type: category
+slug: Table Top Tracker
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  Flutter, Spring Boot으로 개발한 보드게임 로그 기록 앱,
+  Table Top Tracker입니다.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
