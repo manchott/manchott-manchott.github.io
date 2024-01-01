@@ -97,7 +97,7 @@ nohup java -jar \
 구글 로그인을 위해 EC2의 주소를 구글 클라우드에 등록해야한다.
 이 부분은 책의 내용을 기반으로 설정을 했다. 책이 발간된지 5년이니 그새 구글 클라우드 콘솔이 바뀌어서 설정이 이게 맞나 헷갈렸는데, 성공적으로 소셜 로그인을 마쳤다. 그러니 잘 한것이겠지...?
 1. 왼쪽 메뉴 - API 및 서비스 - OAuth 동의 화면  
-![이미지](https://manchott.github.io/assets/img/AWS-deploy/status_check.png "OAuth 동의 화면")
+![이미지](https://manchott.github.io/assets/img/AWS-deploy/gcc_1.png "OAuth 동의 화면"){: width="250" }
 2. 서비스 이름 오른쪽의 `앱 수정` 클릭  
 3. 쭉 내려서 승인된 도메인에 EC2 인스턴스의 `퍼블릭 IPv4 DNS` 입력
 
